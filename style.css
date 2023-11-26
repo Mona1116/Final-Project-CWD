@@ -45,7 +45,7 @@ section{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(bag-bg2.jpg) no-repeat;
+    background: url(tb.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -179,7 +179,7 @@ section{
 }
 
 .review .box-container .box .user img{
-    height: 6rem;
+    height: rem;
     width: 6rem;
     border-radius: 50%;
     object-fit: cover;
